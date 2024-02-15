@@ -2,6 +2,13 @@
 
 Welcome to Guess My Number, a simple number guessing game built with HTML, CSS, and JavaScript.
 
+![Screenshot (30)](https://github.com/Subhikshni/Guess-the-number/assets/99553204/aeaf860b-7331-435d-b320-dd89a94e5ca7)
+
+
+![Screenshot (29)](https://github.com/Subhikshni/Guess-the-number/assets/99553204/2890c832-78ef-4698-8049-454f708c8e1f)
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
